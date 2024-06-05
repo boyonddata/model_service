@@ -1,0 +1,9 @@
+
+POST http://localhost:8000/api/v1/generate_chatgpt
+Content-Type: application/json
+api-key: ce06e67c-d960-4b7b-98d7-9893d0cdb4f4
+
+{
+    "session_id": 63,
+    "message": "yes it is perfect"
+}

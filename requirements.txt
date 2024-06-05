@@ -1,0 +1,8 @@
+fastapi
+pydantic
+pydantic_settings
+uvicorn
+transformers
+safetensors
+torch
+psycopg2-binary
